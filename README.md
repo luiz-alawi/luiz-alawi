@@ -1,6 +1,6 @@
 # Olá, eu sou o Luiz 👋
 
-Estudante de Sistemas de Informação (2º semestre) e estagiário em desenvolvimento de sistemas. Gosto de transformar ideias em produtos funcionais, do back-end à interface.
+Estudante de Sistemas de Informação (2º semestre) e desenvolvedor júnior. Gosto de transformar ideias em produtos funcionais, do back-end à interface.
 
 ## 🚀 Sobre mim
 
