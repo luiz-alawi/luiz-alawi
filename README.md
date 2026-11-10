@@ -5,7 +5,7 @@ Estudante de Sistemas de Informação (2º semestre) e estagiário em desenvolvi
 ## 🚀 Sobre mim
 
 - 🎓 Cursando **Sistemas de Informação**
-- 💼 Atualmente em **estágio em desenvolvimento de software**
+- 💼 Atualmente **desenvolvedor júnior na Antonio Meneghetti Faculdade**
 - 🌱 Sempre aprendendo algo novo pelo caminho
 - 📫 Como me encontrar: veja os links de contato abaixo
 
